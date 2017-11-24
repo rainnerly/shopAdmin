@@ -2,6 +2,10 @@
 
 > xht_shop_seller
 
+## 图片 
+  ![Image text](https://github.com/rainnerly/shopAdmin/blob/master/src/assets/img/githubShow/%E5%95%86%E5%93%81%E9%A6%96%E9%A1%B5.png)
+  ![Image text](https://github.com/rainnerly/shopAdmin/blob/master/src/assets/img/githubShow/%E5%95%86%E5%93%81.png)
+
 ## Build Setup
 
 ``` bash
