@@ -5,10 +5,12 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import ElementUI from 'element-ui'
+import echarts from "vue-echarts-v3"
 //引入element-ui的默认CSS样式
 import 'element-ui/lib/theme-chalk/index.css'
 
 Vue.use(ElementUI)
+Vue.use(echarts)
 Vue.config.productionTip = false
 
 new Vue({
